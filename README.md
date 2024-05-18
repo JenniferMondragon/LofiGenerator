@@ -1,2 +1,1 @@
-# LofiGenerator
-Lofi Generator for Deep Learning - COSC 6339
+# Example Git push
